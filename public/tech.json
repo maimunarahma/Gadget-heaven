@@ -1,0 +1,135 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/ZNfRz3w/iphone.jpg",
+      "category": "Phone",
+      "price": 999,
+      "description": "High-end smartphone with advanced camera system.",
+      "Specification": ["128GB Storage", "6GB RAM", "A15 Bionic Chip"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "2",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/SfBNwfD/Samsung-Galaxy-S21-review.jpg",
+      "category": "Phone",
+      "price": 799,
+      "description": "Flagship phone with excellent display and performance.",
+      "Specification": ["128GB Storage", "8GB RAM", "Snapdragon 888"],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "3",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/chYRSP6/google-pixel-6-and-6-pro-1.webp",
+      "category": "Phone",
+      "price": 599,
+      "description": "Google's latest phone with stock Android experience.",
+      "Specification": ["128GB Storage", "8GB RAM", "Google Tensor"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "4",
+      "product_title": "OnePlus 9",
+      "product_image": "https://i.ibb.co.com/fvTs4PN/oneplus-9-rear-panel-it-1200x768.jpg",
+      "category": "Phone",
+      "price": 729,
+      "description": "High-performance smartphone with fast charging.",
+      "Specification": ["128GB Storage", "12GB RAM", "Snapdragon 888"],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "5",
+      "product_title": "Xiaomi Mi 11",
+      "product_image": "https://i.ibb.co.com/jfcwn0p/X-T30-DSF5878-678x452.jpg",
+      "category": "Phone",
+      "price": 699,
+      "description": "Affordable flagship with great specs.",
+      "Specification": ["256GB Storage", "8GB RAM", "Snapdragon 888"],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "6",
+      "product_title": "Sony Xperia 5 II",
+      "product_image": "https://i.ibb.co.com/r6zZ200/sony-xperia-5-ii-5g-2.jpg",
+      "category": "Phone",
+      "price": 950,
+      "description": "Compact flagship with excellent display and camera.",
+      "Specification": ["128GB Storage", "8GB RAM", "Snapdragon 865"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "7",
+      "product_title": "MacBook Pro 14",
+      "product_image": "https://i.ibb.co.com/1Z4DNkx/05-POe-P7a-Wh-Kj-IKk-Z15-YCZa9-22-v1635374656.jpg",
+      "category": "Laptop",
+      "price": 1999,
+      "description": "Apple's powerful laptop with the M1 Pro chip.",
+      "Specification": ["512GB SSD", "16GB RAM", "Apple M1 Pro"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "8",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/QksB3kt/XPS-13-2-in-1-on-desk-1280x800-1.jpg",
+      "category": "Laptop",
+      "price": 999,
+      "description": "Compact laptop with stunning display and performance.",
+      "Specification": ["512GB SSD", "16GB RAM", "Intel i7 Processor"],
+      "availability": false,
+      "rating": 4.6
+    },
+    {
+      "product_id": "9",
+      "product_title": "AirPods Pro",
+      "product_image": "https://i.ibb.co.com/vLz03qB/Apple-Air-Pods-Pro-2nd-gen-hero-220907-big-jpg-large.jpg",
+      "category": "Accessory",
+      "price": 249,
+      "description": "Wireless earbuds with active noise cancellation.",
+      "Specification": ["Active Noise Cancellation", "Transparency Mode", "Wireless Charging"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "10",
+      "product_title": "Logitech MX Master 3",
+      "product_image": "https://i.ibb.co.com/z8ZcwFJ/02kn-Civ-VXSm-CPL09-Bsu-OHA9-8-fit-lim-size-1050x591-v1574731156.jpg",
+      "category": "Accessory",
+      "price": 99,
+      "description": "Ergonomic wireless mouse with customizable buttons.",
+      "Specification": ["Ergonomic Design", "Customizable Buttons", "USB-C Charging"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "11",
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/3m17dP1/apple-watch-series-7-3.jpg",
+      "category": "Smart Watch",
+      "price": 399,
+      "description": "Advanced health tracking with customizable watch faces.",
+      "Specification": ["Retina Display", "Blood Oxygen Monitoring", "Water Resistant"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "12",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/H7sq0q4/Samsung-Galaxy-Watch-4-Sisko-2.jpg",
+      "category": "Smart Watch",
+      "price": 349,
+      "description": "Wear OS smartwatch with health tracking and seamless connectivity.",
+      "Specification": ["Wear OS", "ECG Monitoring", "Bluetooth Connectivity"],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
+  
