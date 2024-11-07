@@ -1,3 +1,4 @@
+[Batch-10_Assignment-08.pdf](https://github.com/user-attachments/files/17650841/Batch-10_Assignment-08.pdf)
 <h1 align="center" style="font-weight: bold;"><b>Gadget Heaven</b> - Explore the Latest Tech Gadgets 💻</h1>
 <p align="center">Gadget Heaven is an e-commerce platform that lets users explore and buy the latest tech gadgets. Built with React and styled with Tailwind CSS, this platform offers a seamless user experience with category-based navigation, product filtering, and detailed gadget views.</p>
 
