@@ -27,17 +27,14 @@ const Root = () => {
             document.title="Home-Gadget Heaven"
         },[]
     )
-    useEffect(()=>{
-        const cartArr=getCart();
-        console.log(cartArr)
-      
-        const ExtractCartProducts=productArray.filter(product=>cartArr.includes(product.product_id));
-        console.log(ExtractCartProducts)
+    useEffect(() => {
+        const cartArr = getCart();
+        const ExtractCartProducts = productArray.filter(product => cartArr.includes(product.product_id));
         setCartList(ExtractCartProducts);
         const total = ExtractCartProducts.reduce((acc, product) => acc + product.price, 0);
-        setSum(total)
-},[]);
-
+        setSum(total);
+    });
+   
 
  
 // cartList.map(p=> sum+=p.price);
